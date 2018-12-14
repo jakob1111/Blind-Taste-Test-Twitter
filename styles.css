@@ -1,0 +1,44 @@
+.stream-item-header {
+/*display: none !important; 
+*/
+}
+
+.avatar {filter: blur(10px) opacity(20%);}
+
+.fullname {filter: blur(4px) opacity(20%);}
+
+.username {filter: blur(4px) opacity(20%); }
+
+.js-retweet-text {filter: blur(4px)  opacity(20%);}
+
+.ProfileTweet-actionList {display:none;}
+
+
+.ProfileHeaderCard-nameLink  {filter: blur(4px) opacity(20%);}
+
+.ProfileAvatar-image {filter: blur(40px) opacity(20%);}
+
+.ProfileCanopy-header  {filter: blur(40px) opacity(20%);}
+
+.Icon--verified {display:none;}
+
+.ProfileNav-stat {display:none !important;}
+
+
+.ProfileHeaderCard  {filter: blur(4px)  opacity(20%);}
+
+.ProfileUserList-facepile {display:none;}
+
+.ProfileUserList-title  {display:none;}
+
+.Icon:after, .Icon:before  {display:none !important;}
+
+.js-action-profile-avatar {filter: blur(10px) opacity(20%);}
+
+.profile-field  {filter: blur(4px)  opacity(20%);}
+
+.ProfileCard-bg {filter: blur(10px) opacity(20%);}
+
+.ProfileCardStats  {display:none;}
+
+.QuoteTweet-fullname {filter: blur(4px)  opacity(20%);}

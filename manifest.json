@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Blind Twitter",
+  "version": "0.1.0",
+  "description": "Strips Twitter of all identity information (names, photos)... and leaves just the content.",
+
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://*.twitter.com/*"]
+  }]
+ 
+}	
